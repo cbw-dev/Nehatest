@@ -27,3 +27,13 @@ Welcome to CBW’s [workshop name, year] Workshop!
 Put some introductory content here. (ex. links to bioinformatics.ca, general info)
 
 <!-- The rest of the content making up the welcome pages are in following files, which begin with "01#-description_of_file" -->
+
+## Welcome to the website
+
+Hi, *we are doing a test*
+
+`codeblock`
+
+[test](https://www.uhn.ca)
+
+![workshop](img/bioinformatics.ca-logo.svg)\
