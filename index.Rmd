@@ -18,7 +18,7 @@ favicon: img/favicon.ico
 
 - try to make a separate page
 
-# Welcome
+# Good Morning
 
 Welcome to CBW’s [workshop name, year] Workshop!
 
